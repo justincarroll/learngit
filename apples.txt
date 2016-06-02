@@ -1,4 +1,10 @@
+Arkansas Black
+Braeburn
+Cripps Pink
 Gala
-Gold Delicious
+Golden Delicious
+Gravenstein
 Honeycrisp
 Red Delicious
+White Transparent
+Winesap
