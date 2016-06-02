@@ -6,6 +6,7 @@ Gala
 Golden Delicious
 Gravenstein
 Honeycrisp
+Northern Spy
 Red Delicious
 White Transparent
 Winesap
