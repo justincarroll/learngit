@@ -9,6 +9,7 @@ Golden Delicious
 Gravenstein
 Honeycrisp
 Northern Spy
+Pink Pearl
 Red Delicious
 White Transparent
 Winesap
